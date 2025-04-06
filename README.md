@@ -25,7 +25,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/AlexanderTarasevich/monitorsensors.git
+   git clone https://github.com/AlexanderTarasevich/Monitorsensors.git
    cd your_repository
    ```
 
